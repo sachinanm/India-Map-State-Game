@@ -1,6 +1,8 @@
 # India States Game 🎮
 
-![India States Game](india.png)
+<div align="center">
+  <img src="india.gif" alt="India States Game" width="300">
+</div>
 
 ## Table of Contents
 
